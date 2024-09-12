@@ -9,3 +9,28 @@
 .steps {
     background-color:aquamarine;
 }
+
+.recipe-container {
+    box-sizing: border-box;
+    background-color: paleturquoise;
+    padding: 15px;
+    width: 400px;
+    margin: auto;
+    border: 2px darkcyan dotted;
+}
+
+h1 {
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    background-color: rgb(67, 122, 126);
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+
+li {
+    padding: 10px;
+} 
